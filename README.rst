@@ -2,7 +2,7 @@
 
 learning-scala-with-spark
 ---------------------------
-Udemy의 `Apache Spark 와 Scala로 빅 데이터 다루기 <https://www.udemy.com/course/best-scala-apache-spark/>`_ 강의에서 제공하는 연습 코드를 직접 따라치면서 스파크 배우기
+Udemy의 `Apache Spark 와 Scala로 빅데이터 다루기 <https://www.udemy.com/course/best-scala-apache-spark/>`_ 강의에서 제공하는 연습 코드를 직접 따라치면서 스파크 배우기
 
 Test 환경
 ---------
